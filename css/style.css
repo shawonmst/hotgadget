@@ -1,0 +1,70 @@
+body{
+    font-family: 'Poppins';
+}
+.container{
+    margin-bottom: 50px;
+}
+.common-btn{
+    background-color: black;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 7px;
+}
+.cont-slide{
+    background-image: url(../img/Categories/best-product.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70px;
+}
+.custom-card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+}
+.card-title{
+    font-weight: 600;
+}
+p{
+    color: #707070;
+}
+.text-b{
+    font-weight: 700;
+}
+.cat{
+    text-align: center;
+    font-weight: 700;
+}
+.cat-list ul li{
+    list-style: none;
+    text-align: center;
+    padding: 0 20px;
+    box-shadow: 5px 5px 30px lightgray;
+    border-radius: 10px 3px 10px 3px;
+}
+.b-3{
+    text-align: center;
+    font-weight: 600;
+}
+.s-button{
+    background-color: black;
+    color: white;
+    padding: 3px 5px;
+    border: none;
+    border-radius: 5px;
+}
+.mail{
+    border: none;
+    padding: 3px 20px;
+    margin-left: 30px;
+}
+#subscribe{
+    height: 350px;
+}
+#subscribe h6{
+    color:gray;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
